@@ -1,0 +1,2 @@
+# Samy.pl
+Easy Hack
